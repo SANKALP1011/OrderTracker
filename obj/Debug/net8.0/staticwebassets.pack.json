@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sankalppandey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Web Development/OrderTracker/obj/Debug/net8.0/scopedcss/projectbundle/OrderTracker.bundle.scp.css",
+      "PackagePath": "staticwebassets/OrderTracker.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sankalppandey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Web Development/OrderTracker/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/sankalppandey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Web Development/OrderTracker/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sankalppandey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Web Development/OrderTracker/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sankalppandey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Web Development/OrderTracker/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.OrderTracker.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.OrderTracker.props",
+      "PackagePath": "build\\OrderTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OrderTracker.props",
+      "PackagePath": "buildMultiTargeting\\OrderTracker.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OrderTracker.props",
+      "PackagePath": "buildTransitive\\OrderTracker.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
